@@ -1,0 +1,18 @@
+PORTAFOLIO SOFYCOMTECH — versión con evolución profesional y marquesina
+
+Abrir WebOficial/index.html en el navegador.
+
+Novedades:
+- Ficha 03 «Evolución profesional»: cinco etapas sin fechas inventadas.
+- Marquesina de tecnologías bajo la portada, con CSS (no usa <marquee>), pausa al pasar el mouse y adaptación a movimiento reducido.
+- Menú con acceso a la ficha 03 y Contacto renumerado 04.
+- Se conservan las fichas 01 y 02 y los cuatro PDFs originales.
+
+Personalización:
+- Textos de la marquesina: index.html, bloque tech-marquee (repetido dos veces para continuidad).
+- Velocidad: css/styles.css, regla .tech-marquee__track (52s: más segundos = más lenta).
+- Etapas de la ficha 03: index.html, sección id="evolucion".
+
+Para publicar en GitHub Pages, subir el CONTENIDO de WebOficial a la raíz del repositorio correspondiente.
+
+Versión 3: portada compactada para mostrar marquesina sin scroll en pantallas habituales; fotografía ajustada; marquesina con distintivos SVG locales y nombres técnicos, accesible y sin conexión externa. Los distintivos son gráficos propios, no logotipos oficiales.
